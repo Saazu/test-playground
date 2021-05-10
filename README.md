@@ -11,5 +11,3 @@ This repo's purpose is to execute a small test.
 # Contributing
 
 Please follow our git history commit pattern when adding your changes.
-
-
