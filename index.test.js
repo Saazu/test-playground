@@ -16,6 +16,6 @@ describe("G2i Tests", () => {
   });
 
   test("My name is Alfred Delle", () => {
-    expect("Alfred Delle").toBe("Alfred Delle")
+    expect("Alfred").toBe("Alfred")
   })
 });
